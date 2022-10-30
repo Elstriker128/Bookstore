@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\obj\Debug\Bookstore.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\User\OneDrive\Desktop\VSP\Bookstore\obj\Debug\Bookstore.pdb
